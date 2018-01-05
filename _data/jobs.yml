@@ -1,0 +1,121 @@
+ - company: "Portugal Telecom – SAPO"
+   positionpt: "Gestora de Produto de Sites E-Commerce"
+   descriptionpt: ""
+   positionen: ""
+   descriptionen: ""
+   descriptionlistpt:
+   - name: "Definição dos produtos: SAPO Voucher, SAPO Restaurantes e SAPO Fashion"
+   - name: "Desenvolvimento de marca"
+   - name: "Crescimento de tráfego de websites e apps mobile"
+   - name: "Benchmarks e análise concorrencial"
+   - name: "Monitorização e análise de KPI’s"
+   - name: "Especificações de produto e acompanhamento de desenvolvimentos técnicos"   
+   - name: "Acompanhamento de projetos estratégicos e transversais à marca"
+   descriptionlisten:
+   - name: ""
+   datefrom: 2015-10-01 00:00:00 +0000
+   dateto:
+   projects:
+   - name: SAPO Voucher
+     url: http://voucher.sapo.pt
+     pageviews: "1M"
+     visits: "350K"
+   - name: SAPO Restaurantes
+     url: http://restaurantes.sapo.pt
+     pageviews: "70K"
+     visits: "30K"
+   - name: SAPO Fashion
+     url: http://fashion.sapo.pt
+     pageviews: "250K"
+     visits: "60K"
+
+ - company: "Portugal Telecom – SAPO"
+   positionpt: "Gestora de Produto/Parcerias de Sites Temáticos"
+   descriptionlistpt:
+   - name: "Definição dos produtos: SAPO Mulher, SAPO Saúde, SAPO Família, SAPO Sabores, SAPO Astral e SAPO Lifestyle"
+   - name: "Desenvolvimento de marca"
+   - name: "Crescimento de tráfego de websites e apps mobile"
+   - name: "Benchmarks e análise concorrencial"
+   - name: "Monitorização e análise de KPI's"
+   - name: "Especificações de produto e acompanhamento de desenvolvimentos técnicos"
+   - name: "Prospeção, angariação e fidelização de novos parceiros enquanto fornecedores do conteúdo"
+   - name: "Gestão da relação de parceria"
+   - name: "Relatórios e partilha de receitas de publicidade"
+   - name: "Gestão contratual e aprovação de faturas"
+   - name: "Acompanhamento de projetos estratégicos e transversais à marca"
+   positionen: ""
+   descriptionlisten:
+   - name: ""
+   datefrom: 2012-03-01 00:00:00 +0000
+   dateto: 2015-10-01 00:00:00 +0000
+   projects:
+   - name: SAPO Lifestyle
+     url: http://lifestyle.sapo.pt
+     pageviews: "60M"
+     visits: "7M"
+   - name: SAPO Astral
+     url: http://astral.sapo.pt
+     pageviews: "12M"
+     visits: "2M"
+   - name: SAPO Mulher
+     url: http://mulher.sapo.pt
+     pageviews: "9M"
+     visits: "800K"
+   - name: SAPO Fama
+     url: http://fama.sapo.pt
+     pageviews: "8M"
+     visits: "700K"
+   - name: SAPO Saúde
+     url: http://saude.sapo.pt
+     pageviews: "2M"
+     visits: "1M"
+   - name: SAPO Sabores
+     url: http://sabores.sapo.pt
+     pageviews: "2M"
+     visits: "800K"
+   - name: SAPO Família
+     url: http://familia.sapo.pt
+     pageviews: "2M"
+     visits: "600K" 
+ - company: "Deloitte"
+   positionpt: "Consultora de incentivos Governamentais"
+   descriptionlistpt:
+   - name: "Análise de oportunidades de cofinanciamento público e benefícios fiscais (estudos preparatórios)"
+   - name: "Assistência na elaboração da candidatura ao incentivo fiscal (enquadramento)"
+   - name: "Acompanhamento na execução do projeto e disponibilização da informação solicitada pelas autoridades de gestão (simulação)"
+   - name: "Encerramento do projeto e apoio na elaboração de pedido de pagamento do incentivo (esclarecimentos e assistência)"
+   positionen: ""
+   descriptionlisten:
+   - name: ""
+   datefrom: 2011-03-01 00:00:00 +0000
+   dateto: 2012-03-01 00:00:00 +0000
+
+ - company: "Holmes Place"
+   positionpt: "Rececionista"
+   descriptionlistpt:
+   - name: "Acolhimento ao cliente"
+   - name: "Execução de procedimentos administrativos de retenção"
+   - name: "Gestão de reclamações/sugestões"
+   - name: "Controlo e manutenção de bases de dados"
+   - name: "Gestão contratual e de procedimentos bancários relacionados com cobranças e pagamentos"
+   - name: "Venda de serviços ao cliente"
+   - name: "Organização da receção"
+   positionen: ""
+   descriptionlisten:
+   - name: ""
+   datefrom: 2008-12-01 00:00:00 +0000
+   dateto: 2011-03-01 00:00:00 +0000
+ - company: ""
+   positionpt: ""
+   descriptionlistpt:
+   - name: "Vendedora Decathlon" 
+   - name: "Vendedora TMN"
+   - name: "Vendedora Benetton"
+   - name: "Promotora Bacardi/Martini"
+   - name: "Promotora Sagres"
+   - name: "Figurante em anúncios de TV"
+   positionen: ""
+   descriptionlisten:
+   - name: ""
+   datefrom: 2005-05-01 00:00:00 +0000
+   dateto: 2008-11-01 00:00:00 +0000

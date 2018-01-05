@@ -1,0 +1,25 @@
+ - namept: "Português"
+   evaluationpt: "Nativo"
+   nameen: "Portuguese"
+   evaluationen: "Native"
+   value: 5
+ - namept: "Inglês"
+   evaluationpt: "Independente"
+   nameen: "English"
+   evaluationen: "Independent"
+   value: 4
+ - namept: "Castelhano"
+   evaluationpt: "Elementar"
+   nameen: "Spanish"
+   evaluationen: "Elementary"
+   value: 3
+ - namept: "Francês"
+   evaluationpt: "Limitado"
+   nameen: "French"
+   evaluationen: "Limited"
+   value: 2
+ - namept: "Alemão"
+   evaluationpt: "Limitado"
+   nameen: "German"
+   evaluationen: "Limited"
+   value: 2

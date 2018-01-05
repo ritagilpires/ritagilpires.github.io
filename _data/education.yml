@@ -1,0 +1,87 @@
+ - school: "IPAM - Instituto Português de Administração de Marketing"
+   degreept: "Pós-Graduação em Gestão de Marketing"
+   degreeen: ""
+   grade: 16
+   datefrom: 2011-09-01 00:00:00 +0000
+   dateto: 2012-06-01 00:00:00 +0000
+   subjectspt:
+   - name: "Marketing Estratégico"
+   - name: "Marketing Relacional"
+   - name: "Novas Tendências no Comportamento do Consumidor"
+   - name: "Marketing Operacional"
+   - name: "Digital Marketing"
+   - name: "Financial Marketing Metrics"
+   - name: "Sales Management"
+   - name: "Experience for Life"
+   - name: "Plano de Marketing"
+   subjectsen:
+   - name: 
+ - school: "ISEG - Instituto Superior de Economia e Gestão"
+   degreept: "Mestrado em Gestão de Empresas"
+   degreeen: ""
+   grade: "falta tese - 15"
+   datefrom: 2010-09-01 00:00:00 +0000
+   dateto: 2011-06-01 00:00:00 +0000
+   subjectspt:
+   - name: "Análise de Investimentos"
+   - name: "Contabilidade e Fiscalidade Empresarial"
+   - name: "Gestão da Qualidade"
+   - name: "Marketing Empresarial"
+   - name: "Empreendedorismo"
+   - name: "Casos em Gestão Estratégica"
+   - name: "Gestão de Competências"
+   - name: "Gestão Internacional"
+   - name: "Política de Financiamento da Empresa"
+   - name: "Sistemas de Informação Empresarial"
+   subjectsen:
+   - name: ""
+ - school: "ISCSP - Instituto Superior de Ciências Sociais e Políticas"
+   degreept: "Licenciatura em Relações Internacionais"
+   degreeen: ""
+   grade: 13
+   datefrom: 2005-09-01 00:00:00 +0000
+   dateto: 2010-06-01 00:00:00 +0000
+   subjectspt:
+   - name: "Teoria Política"
+   - name: "História Económica e Social"
+   - name: "Pensamento Político Contemporâneo"
+   - name: "Ideologias Políticas"
+   - name: "Direito Internacional Público"
+   - name: "Sistema Jurídico Internacional"
+   - name: "Economia"
+   - name: "Matemática e Estatística"
+   - name: "Introdução à Metodologia das Ciências Sociais"
+   - name: "Demografia"
+   - name: "Antropologia"
+   - name: "Doutrinas Políticas e Sociais"
+   - name: "Direito da União Europeia"
+   - name: "Política Externa Portuguesa"
+   - name: "Introdução e Metodologia das Relações Internacionais"
+   - name: "Introdução às Ciências Políticas e Sociais"
+   - name: "Projeto Europeu"
+   - name: "Sociedade Civil Transnacional"
+   - name: "Geopolítica"
+   - name: "Estratégia"
+   - name: "Política Externa das Grandes Potências"
+   - name: "História da Colonização Moderna e Descolonização"
+   - name: "Sistema das Nações Unidas"
+   - name: "Política Externa Portuguesa"
+   - name: "Alemão"
+   - name: "Espanhol"
+   subjectsen:
+   - name: ""
+ - school: "ESLAV - Escola Secundária de Linda-a-Velha"
+   degreept: "Ensino secundário no agrupamento de Humanidades"
+   degreeen: ""
+   grade: 14
+   datefrom: 2002-09-01 00:00:00 +0000
+   dateto: 2005-06-01 00:00:00 +0000
+   subjectspt:
+   - name: "Português"
+   - name: "Inglês"
+   - name: "Alemão"
+   - name: "História"
+   - name: "Sociologia"
+   - name: "Psicologia"
+   subjectsen:
+   - name: ""

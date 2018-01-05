@@ -1,0 +1,10 @@
+ - name: "Microsoft Office"
+   value: 5
+ - name: "Wordpress"
+   value: 4
+ - name: "Google Analytics"
+   value: 3
+ - name: "Adobe Photoshop"
+   value: 2
+ - name: "Netpanel Marktest"
+   value: 1
