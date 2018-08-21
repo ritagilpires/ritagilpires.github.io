@@ -1,4 +1,45 @@
  - company: "Portugal Telecom – SAPO"
+   positionpt: "Gestora de Produto/Parcerias de Sites Informativos"
+   descriptionpt: ""
+   positionen: ""
+   descriptionen: ""
+   descriptionlistpt:
+   - name: "Definição dos produtos: Homepage SAPO, SAPO 24, SAPO Jornais, SAPO Dose Diária (newsletter) e SAPO Desporto"
+   - name: "Desenvolvimento de marca Crescimento de tráfego de websites e apps mobile"
+   - name: "Benchmarks e análise concorrencial"
+   - name: "Monitorização e análise de KPI's Especificações de produto e acompanhamento de desenvolvimentos técnicos"
+   - name: "Prospeção, angariação e fidelização de novos parceiros enquanto fornecedores do conteúdo"
+   - name: "Gestão da relação de parceria"
+   - name: "Relatórios e partilha de receitas de publicidade"
+   - name: "Gestão contratual e aprovação de faturas"
+   - name: "Acompanhamento de projetos estratégicos e transversais à marca"
+   descriptionlisten:
+   - name: ""
+   datefrom: 2016-03-01 00:00:00 +0000
+   dateto:
+   projects:
+   - name: Homepage SAPO
+     url: https://sapo.pt
+     pageviews: "130M"
+     visits: "26M"
+   - name: SAPO 24
+     url: http://24.sapo.pt
+     pageviews: "13M"
+     visits: "6.5M"
+   - name: SAPO Jornais
+     url: https://jornais.sapo.pt
+     pageviews: "900K"
+     visits: "95K"
+   - name: SAPO Dose Diária
+     url: https://sapo.pt
+     subscribers: "12K"
+     videoviews: "137K"
+   - name: SAPO Desporto
+     url: http://desporto.sapo.pt
+     pageviews: "20M"
+     visits: "5.5M"
+
+ - company: "Portugal Telecom – SAPO"
    positionpt: "Gestora de Produto de Sites E-Commerce"
    descriptionpt: ""
    positionen: ""
@@ -14,7 +55,7 @@
    descriptionlisten:
    - name: ""
    datefrom: 2015-10-01 00:00:00 +0000
-   dateto:
+   dateto: 2016-03-01 00:00:00 +0000
    projects:
    - name: SAPO Voucher
      url: http://voucher.sapo.pt

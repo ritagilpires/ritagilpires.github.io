@@ -86,9 +86,15 @@ description: "Sou apaixonada por comida e pelo mundo digital. Os amigos dizem qu
                                 {% for project in job.projects %}
                                 <li class="[ no-margin ]">
                                     {% if project.url %}
-                                    <a href="{{ project.url }}" target="_blank">{{ project.name }} ({{ project.pageviews }} pageviews -  {{ project.visits }} visits)</a>
+                                    <a href="{{ project.url }}" target="_blank">{{ project.name }} 
+                                        {% if project.subscribers %}
+                                        ({{ project.subscribers }} subscribers -  {{ project.videoviews }} views video)
+                                        {% else %}
+                                        ({{ project.pageviews }} pageviews -  {{ project.visits }} visits)
+                                        {% endif %}
+                                    </a>
                                     {% else %}
-                                    <span>{{ project.name }} {{ project.pageviews }} {{ project.visits }}</span>
+                                    <span>{{ project.name }} ({{ project.pageviews }} pageviews - {{ project.visits }} visits)</span>
                                     {% endif %}
                                 </li>
                                 {% endfor %}
