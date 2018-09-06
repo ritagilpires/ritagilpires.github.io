@@ -6,4 +6,4 @@ Enquanto gestora de produto trabalho em estreita colaboração com várias equip
 
 Tenho confiança na minha forma multidisciplinar de trabalhar e orgulho na capacidade de conduzir produtos desde a ideia, à concretização e à promoção.
 
-Adicionalmente, sou apaixonada por comida e viagens o que me levou a criar o projeto empreendedor [Brunch do Mundo](https://www.facebook.com/brunchdomundo/) e o projeto pessoal como foodblogger [DeGostar](http://degostar.pt/). A fotografia mistura-se com estas duas paixões e, de forma amadora, fiz alguns trabalhos disponíveis em [Portfoliobox](http://ritagilpires.portfoliobox.net/).
+Adicionalmente, a paixão por comida e viagens levou-me a criar o projeto empreendedor [Brunch do Mundo](https://www.facebook.com/brunchdomundo/) e o projeto pessoal [DeGostar](http://degostar.pt/). A fotografia mistura-se com estas duas paixões e, de forma amadora, fiz alguns trabalhos disponíveis em [Portfoliobox](http://ritagilpires.portfoliobox.net/).
